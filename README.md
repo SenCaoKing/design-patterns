@@ -5,4 +5,4 @@ PHP设计模式
 
 - [单例模式](https://github.com/SenCaoKing/design-patterns/blob/master/singleton/index.php)
 
-- [简单工厂]()
+- [简单工厂模式]()
